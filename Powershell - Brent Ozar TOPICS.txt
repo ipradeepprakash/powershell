@@ -1,0 +1,152 @@
+Powershell - Brent Ozar Topics 
+********************************
+March 1, Weds: What's PowerShell?
+-----------------------------------------------
+Introduction to PowerShell: Understanding the Basics: https://docs.microsoft.com/en-us/powershell/scripting/getting-started/introduction-to-powershell?view=powershell-7.1
+Why Learn PowerShell: https://adamtheautomator.com/why-learn-powershell/
+
+March 2, Thurs: Using Variables
+-----------------------------------------------
+Working with Variables: https://docs.microsoft.com/en-us/powershell/scripting/learn/using-variables?view=powershell-7.1
+PowerShell Variables: A Beginner's Guide: https://adamtheautomator.com/powershell-variables/
+
+March 3, Fri: Using CMDLETs and the Pipeline and Demos
+-----------------------------------------------
+Understanding Cmdlets: https://docs.microsoft.com/en-us/powershell/scripting/learn/understanding-the-basics-of-cmdlets?view=powershell-7.1
+Understanding the PowerShell Pipeline: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-pipelines?view=powershell-7.1
+PowerShell Pipeline Examples: https://adamtheautomator.com/powershell-pipeline-examples/
+
+March 4, Fri: Using CMDLETs and the Pipeline and Demos
+-----------------------------------------------
+Understanding PowerShell Cmdlets: https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/02-cmdlets?view=powershell-7.1
+PowerShell Pipeline Basics: https://adamtheautomator.com/powershell-pipeline/
+
+March 5, Sat: CMDLETs: Aliasing and the Pipeline and Demos
+-----------------------------------------------
+Using Aliases in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-aliases?view=powershell-7.1
+PowerShell Aliases vs Functions vs Cmdlets: https://adamtheautomator.com/powershell-aliases-functions-cmdlets/
+
+March 6, Mon: CMDLETs: Aliasing and the Pipeline and Demos
+-----------------------------------------------
+Aliases in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-aliases?view=powershell-7.1
+How to Use Aliases in PowerShell: https://adamtheautomator.com/powershell-aliases/
+
+March 7, Tues: Working with Objects and Demos
+-----------------------------------------------
+Understanding Objects in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-objects?view=powershell-7.1
+PowerShell Objects: A Beginner's Guide: https://adamtheautomator.com/powershell-objects/
+
+March 8, Weds: Object Properties and the Pipeline and Demos
+-----------------------------------------------
+Working with Properties and Methods of Objects: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-properties-and-methods?view=powershell-7.1
+Understanding the PowerShell Pipeline: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-pipelines?view=powershell-7.1
+PowerShell Pipeline Examples: https://adamtheautomator.com/powershell-pipeline-examples/
+
+March 9, Thurs: Object Methods
+-----------------------------------------------
+Using Object Methods in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-properties-and-methods?view=powershell-7.1#using-methods
+How to Use PowerShell Object Methods: https://adamtheautomator.com/powershell-object-methods/
+
+March 10, Fri: Making Your Own Objects
+-----------------------------------------------
+Creating Custom Objects in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-objects?view=powershell-7.1#creating-custom-objects
+How to Create Custom Objects in PowerShell: https://adamtheautomator.com/powershell-custom-objects/
+
+March 11, Fri: Making Your Own Objects
+-----------------------------------------------
+Creating Custom Objects in PowerShell: https://devblogs.microsoft.com/scripting/powertip-create-a-custom-object-in-powershell/
+How to Create Custom Objects in PowerShell: https://adamtheautomator.com/powershell-custom-objects/
+
+March 12, Sat: Logical Operators and Loops and Demos
+-----------------------------------------------
+PowerShell Logical Operators and Loops: https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/04-loops?view=powershell-7.1
+Using Logical Operators and Loops in PowerShell: https://adamtheautomator.com/powershell-loops/
+
+March 13, Mon: Logical Operators and Loops and Demos
+-----------------------------------------------
+Using Operators in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about
+
+March 14, Tues: Filtering with WHERE
+-----------------------------------------------
+Filtering Output with Where-Object: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/where-object?view=powershell-7.1
+PowerShell Where-Object: How to Filter Objects: https://adamtheautomator.com/powershell-where-object/
+
+March 15, Weds: WHILE Loops and Demos
+-----------------------------------------------
+Looping in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-loops?view=powershell-7.1
+How to Use While Loops in PowerShell: https://adamtheautomator.com/powershell-while-loop/
+
+March 16, Thurs: IF-THEN-ELSE
+-----------------------------------------------
+Conditional Statements in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-conditional-logic?view=powershell-7.1
+PowerShell If Statements: How to Use Them: https://adamtheautomator.com/powershell-if-statement/
+
+March 17, Fri: Functions and Parameters and Demos
+-----------------------------------------------
+Defining Functions in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-functions?view=powershell-7.1
+PowerShell Functions: How to Use Them: https://adamtheautomator.com/powershell-functions/
+
+March 18, Fri: Scripting Objects and Demos
+-----------------------------------------------
+Introduction to PowerShell Scripting: https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1
+How to Write PowerShell Scripts: https://adamtheautomator.com/powershell-scripts/
+
+March 19, Sat: Working with Arrays and Hash Tables and Demos
+-----------------------------------------------
+PowerShell Arrays and Hash Tables: https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/07-arrays-and-hash-tables?view=powershell-7.1
+Using Arrays and Hash Tables in PowerShell: https://adamtheautomator.com/powershell-arrays/
+
+March 20, Mon: Parameters and Error Handling and Demos
+-----------------------------------------------
+Understanding PowerShell Parameters: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-parameters?view=powershell-7.1
+PowerShell Error Handling: How to Use Try/Catch/Finally: https://adamtheautomator.com/powershell-try-catch-finally/
+
+March 21, Tues: The SQL Server Module and Demos
+-----------------------------------------------
+Introduction to SQL Server PowerShell: https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell?view=sql-server-ver15
+How to Use SQL Server PowerShell Module: https://adamtheautomator.com/sql-server-powershell/
+
+March 22, Weds: The SQLSERVER:\ Drive
+-----------------------------------------------
+SQL Server PowerShell Provider: https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell-provider?view=sql-server-ver15
+Using the SQLSERVER:\ Drive in PowerShell: https://adamtheautomator.com/sql-server-powershell-drive/
+
+March 23, Thurs: Working With SQLSERVER Objects
+-----------------------------------------------
+SQL Server PowerShell Objects: https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell-objects?view=sql-server-ver15
+PowerShell SQL Server Commands: How to Use Them: https://adamtheautomator.com/powershell-sql-server-commands/
+
+March 24, Fri: Scripting Objects and Demos
+-----------------------------------------------
+PowerShell Scripting: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-scripting?view=powershell-7.1
+How to Create PowerShell Scripts: https://adamtheautomator.com/powershell-scripts/
+
+March 25, Fri: Advanced Functions and Parameters and Demos
+------------------------------------------------
+Advanced PowerShell Functions and Parameters: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_functions_advanced?view=powershell-7.1
+Creating Advanced Functions with PowerShell: https://adamtheautomator.com/powershell-advanced-functions/
+
+March 27, Mon: Objects and Namespaces
+-----------------------------------------------
+Understanding Namespaces in PowerShell: https://docs.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-namespaces?view=powershell-7.1
+
+March 28, Tues: PowerShell and the SQL Server Agent
+-----------------------------------------------
+SQL Server Agent Jobs with PowerShell: https://docs.microsoft.com/en-us/sql/ssms/agent/use-powershell-to-create-a-sql-server-agent-job?view=sql-server-ver15
+How to Use PowerShell with SQL Server Agent: https://adamtheautomator.com/powershell-sql-server-agent-jobs/
+
+March 29, Weds: Creating Agent Jobs
+-----------------------------------------------
+Creating SQL Server Agent Jobs with PowerShell: https://docs.microsoft.com/en-us/sql/ssms/agent/use-powershell-to-create-a-sql-server-agent-job?view=sql-server-ver15
+How to Use PowerShell to Create SQL Server Agent Jobs: https://adamtheautomator.com/powershell-sql-server-agent-jobs/
+
+March 30, Thurs: Scheduling PowerShell Job Scripts
+-----------------------------------------------
+Scheduling PowerShell Scripts with Task Scheduler: https://docs.microsoft.com/en-us/powershell/scripting/samples/how-to-schedule-a-powershell-script-to-run-automatically?view=powershell-7.1
+How to Schedule PowerShell Scripts: https://adamtheautomator.com/schedule-powershell-scripts-task-scheduler/
+
+March 31, Fri: Auditing Permissions with PowerShell and Demos
+-----------------------------------------------
+Auditing Permissions with PowerShell: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/get-acl?view=powershell-7.1
+How to Audit Permissions with PowerShell: https://adamtheautomator.com/powershell-audit-permissions/
+
